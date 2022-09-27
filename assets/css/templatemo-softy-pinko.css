@@ -46,6 +46,20 @@ font & reset css
 reset
 --------------------------------------------- 
 */
+
+.tiktoklogo {
+    font-size: 100px;
+    position: relative;
+    color: #00fff8;
+}
+.tiktoklogo i:last-child {
+    mix-blend-mode: multiply;
+    color: #ff0010;
+    position: absolute;
+    left: 5px;
+    top: 7px;
+}
+
 html,
 body,
 div,
