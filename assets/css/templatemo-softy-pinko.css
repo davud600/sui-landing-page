@@ -476,7 +476,7 @@ header
     left: 0px;
     z-index: 100;
     height: 80px;
-    background-color: #f2efe6;
+    background-color: #fff;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
@@ -487,7 +487,7 @@ header
 .header-area .main-nav {
     border-radius: 0px;
     min-height: 80px;
-    background: #f2efe6;
+    background: #fff;
 }
 
 .header-area .main-nav .logo {
